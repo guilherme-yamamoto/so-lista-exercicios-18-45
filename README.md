@@ -34,8 +34,7 @@ Exercício 28: Recebe o preço atual e a média mensal de um produto, calculando
 Recebe o tipo de investimento (1 = poupança e 2 = renda fixa) e o valor do investimento. Depois calcula e mostra o valor corrigido em 30 dias (considerando que a poupança rende 3%, e a renda fixa 5%).
 
 Exercício 29: Recebe o tipo de investimento (1 para poupança e 2 para renda fixa) e o valor do 
-investimento. Calcula e mostra o valor corrigido em 30 dias, onde a  
-poupança rende 3% e a renda fixa rende 5%.
+investimento. Calcula e mostra o valor corrigido em 30 dias, onde a poupança rende 3% e a renda fixa rende 5%.
 
 Exercício 31: Calcula e mostra o quadrado dos números entre 10 e 150.
 
